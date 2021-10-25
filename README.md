@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/KalebBrumme/KalebBrumme/master/Banner.png "Header")]
+[![Header](https://raw.githubusercontent.com/KalebBrume/KalebBrumme/main/Banner.png "Header")]
