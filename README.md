@@ -12,8 +12,7 @@
 <h3>Some technologies and tools 🔧</h3>
 
 
-<img src="icons/.png" width="100px" height="50px"/>
-![](icons/python.png)
-![](icons/mern.png)
-![](icons/java.png)
+<img src="icons/html_js_css.png" width="150px" height="80px"/> <img src="icons/python.png" width="100px" height="80px"/>
+<img src="icons/mern.png" width="150px" height="80px"/>
+<img src="icons/java.png" width="100px" height="80px"/>
 
