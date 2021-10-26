@@ -26,3 +26,6 @@
 <img src="icons/flask.png" width="80px" height="80px"/> <img src="icons/mysql.png" width="80px" height="80px"/>
 <img src="icons/sts.png" width="80px" height="80px"/>
 
+
+
+[![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KalebBrumme)](https://github.com/anuraghazra/github-readme-stats)
