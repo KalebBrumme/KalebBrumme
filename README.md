@@ -10,7 +10,7 @@
 <hr/>
 
 <h3>Some links you can connect with me at.</h3>
-<a href="www.linkedin.com/in/kalebmbrumme"/><img height="30" src="icons/linkedin.png"/>
+<a href="https://linkedin.com/in/kalebmbrumme"/><img height="30" src="icons/linkedin.png"/>
 
 
 
