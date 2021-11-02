@@ -4,7 +4,7 @@
 
 <h3>Hello There! 👋</h3>
 <p>
-  My name is Kaleb and I am a software engineer/web developer. I am from the North Bay Area, California.
+  My name is Kaleb and I am a software engineer/web developer. I am from the North Bay Area, California. I have had many jobs in the past but never one that stuck with me or that had my passion. When it comes to anything with computers that's where my passion is. I am excited for the journey of looking for a potential company where I can begin to live my passion. 
 </p>
 
 <hr/>
